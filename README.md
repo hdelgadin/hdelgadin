@@ -7,7 +7,6 @@
 **What about me:**
 
 - 🐟 Diving into Design Patterns for more productive software development
-- ⚡️ Working on a global installer for multiple product lines. (Delphi)
 - 📺 Over 17 years in at MEDIA 5. I went from Technician to Programmer and finally ended up as a Technical Lead, wearing all the hats in between!😄
 - 👨🏻‍💻 Associate Degree in Programming (TECLAB, 2021 - 2022).
 - 🎓 Pursuing a degree in Computer Science Engineering (UNAJ, 2022 - In Progress).
